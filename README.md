@@ -27,8 +27,8 @@
 ---
 
 ### 📫 Connect with Me
-- LinkedIn:- 
-- Email: adiprajadinata81@gmail.com
+- LinkedIn: [linkedin.com/in/adiprajadinata81](https://linkedin.com/in/adiprajadinata81)  
+- Email: [adiprajadinata81@gmail.com](mailto:adiprajadinata81@gmail.com)  
 
 ---
 
