@@ -20,15 +20,15 @@
 ---
 
 ### 📊 GitHub Stats
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiprajadinata&show_icons=true&theme=radical)  
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiprajadinata81&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiprajadinata&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiprajadinata81&layout=compact&theme=radical)  
 
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: 
-- Email: adiprajadinata81  
+- LinkedIn: [Your LinkedIn Link](#)  
+- Email: [Your Email](#)  
 
 ---
 
